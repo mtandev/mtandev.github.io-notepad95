@@ -9,6 +9,7 @@
   * New file with text area & save alert
   * Open existing file
   * Exit
+  * Edit
   * Search links 
   * About 
   * Back 

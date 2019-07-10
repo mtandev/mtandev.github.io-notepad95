@@ -2,7 +2,7 @@
 ## It is a recreation of the Windows 95 Notepad App.
 ## I used this as a starting point for this project: https://codepen.io/sadcry/pen/WGqpKx
 
-##### I will continue to roll out updates for this project over the next few weeks
+##### *I will continue to roll out updates for this project over the next few weeks*
 
 #### Features I added: 
 * Dropdown menus
